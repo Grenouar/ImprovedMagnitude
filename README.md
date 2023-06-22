@@ -1,5 +1,8 @@
 # ImprovedMagnitude
 
+## DISCLAIMER:
+This module was created **before June 27, 2022**. It may contain outdated code and compatibility issues. Please use with caution.
+
 ## Introduction:
 The ImprovedMagnitude module revolutionizes hitbox calculations, offering enhanced accuracy and flexibility. It takes into account various properties, including the size of the enemy, to deliver precise results. Whether you need to determine the closest foe, the farthest adversary, or even hit the nearest target within a specific range, ImprovedMagnitude has got you covered.
 
